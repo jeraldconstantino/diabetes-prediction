@@ -1,4 +1,4 @@
-<h1 align="center"> Diabetes Mellitus Prediction </h1>
+<h1 align="center"> Diabetes <i>Mellitus</i> Prediction </h1>
 <p align="center"> A machine learning-based project for early diabetes detection using a publicly available diabetes dataset. </p>
 
 ## How to use this project
